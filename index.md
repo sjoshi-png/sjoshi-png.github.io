@@ -14,7 +14,7 @@ My GitHub page is http://github.com/sjoshi-png.
 
 * Lab 2
 
-    Lab 2, part 1 was one of my favorite labs as well because it was simple and fun to complete. Since this was the only lab done individually rather than in pairs, it was fun to play around and learn on our own. Also, I learned how to use and implement arithmetic operators in my program.
+    Lab 2, part 1 was also one of my favorite labs because it was simple and fun to complete. Since this was the only lab done individually rather than in pairs, it was fun to play around and learn on our own. Also, I learned how to use and implement arithmetic operators in my program.
 
 * Lab 3
 
